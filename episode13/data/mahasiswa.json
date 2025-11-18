@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "adam",
+        "umur": "24",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "budi",
+        "umur": "22",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "canto",
+        "umur": "24",
+        "idDosenWali": 2
+    }
+]
